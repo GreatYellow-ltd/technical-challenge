@@ -1,4 +1,4 @@
-# Great Yellow Technical Challenge
+# Great Yellow Technical Challenge 🐝
 
 ## Unit Allocation Kata
 
