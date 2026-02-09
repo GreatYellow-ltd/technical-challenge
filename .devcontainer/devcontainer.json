@@ -1,0 +1,5 @@
+{
+  "name": "Great Yellow Technical Challenge",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
+  "postCreateCommand": "node challenge.ts"
+}

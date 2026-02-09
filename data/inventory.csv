@@ -1,0 +1,6 @@
+inventoryId,scheme,forecasted,issued,allocated
+INV-001,BNG,100,100,60
+INV-002,BNG,50,50,50
+INV-003,BNG,75,75,30
+INV-004,WCC,500,400,150
+INV-005,WCC,200,0,0
