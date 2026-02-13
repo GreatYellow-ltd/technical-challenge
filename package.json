@@ -1,0 +1,11 @@
+{
+  "name": "great-yellow-technical-challenge",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node challenge.ts",
+    "dev": "node --watch challenge.ts"
+  }
+}

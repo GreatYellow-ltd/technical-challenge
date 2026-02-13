@@ -22,10 +22,15 @@ Alternatively, clone and run locally:
 ```bash
 git clone <repo-url>
 cd great-yellow-technical-challenge
-node challenge.ts
+npm run start
 ```
 
-**Requirements for local setup:** Node.js 22+ (has built-in TypeScript support). If you're on an older version of Node, you can use `npx tsx challenge.ts` instead.
+For auto-rerun on save while you work, use watch mode:
+```bash
+npm run dev
+```
+
+**Requirements for local setup:** Node.js 24+ which has built-in TypeScript support. If you're on an older version of Node, you can use `npx tsx challenge.ts` instead.
 
 ---
 
